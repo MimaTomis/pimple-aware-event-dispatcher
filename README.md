@@ -1,7 +1,7 @@
 Pimple Aware Event Dispatcher
 =============================
 
-Support [Pimple v3.0](http://pimple.sensiolabs.org/)
+Added support [Pimple v3.0](http://pimple.sensiolabs.org/)
 
 Installation
 ------------
