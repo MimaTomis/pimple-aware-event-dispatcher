@@ -1,11 +1,13 @@
 Pimple Aware Event Dispatcher
 =============================
 
+Support Pimple v3.0
+
 Installation
 ------------
 
 ```
-composer.phar require "davedevelopment/pimple-aware-event-dispatcher:*@dev"
+composer.phar require "davedevelopment/pimple-aware-event-dispatcher:3.0.*"
 ```
 
 Usage
